@@ -187,7 +187,7 @@ export const myProjects = [
     desc: 'AI-powered tool for stroke detection from CT/MRI scans in humans and pets, using deep learning for faster and more accurate diagnosis.',
     subdesc:
       'Currently in development with Python, TensorFlow, and CNNs. The project focuses on speeding up stroke detection, improving accuracy, and extending support to veterinary healthcare.',
-    href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+    href: 'https://www.google.com',
     texture: '/textures/project/project4.mp4',
     logo: '/assets/project-logo4.png',
     logoStyle: {
